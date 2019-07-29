@@ -3,4 +3,4 @@
 [TAndroidLame项目](https://github.com/naman14/TAndroidLame)对应支持目前所有架构的so包
 
 naman14:TAndroidLame:1.1 对应各版本so包
-![image]()
+![image](https://github.com/vikey10/Lame4Android/blob/master/libandroidlame.png)
