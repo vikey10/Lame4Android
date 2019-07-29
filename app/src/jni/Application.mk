@@ -1,0 +1,4 @@
+APP_PLATFORM := android-16
+APP_ABI := all
+APP_MODULES := androidlame
+APP_CFLAGS += -DSTDC_HEADERS
